@@ -1,0 +1,1 @@
+Hello Arathi! This file is shared from my local Git repository.
